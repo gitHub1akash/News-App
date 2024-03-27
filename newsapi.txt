@@ -1,0 +1,98 @@
+  articles = [
+    {
+      source: { id: "bbc-sport", name: "BBC Sport" },
+      author: "BBC Sport",
+      title: "Shane Warne memorial - watch & follow updates",
+      description:
+        "Watch live coverage and follow text updates and tributes from the s",
+      url: "http://www.bbc.co.uk/sport/live/cricket/60916236",
+      urlToImage:
+        "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      publishedAt: "2022-03-30T08:22:26.498888Z",
+      content:
+        "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]",
+    },
+    {
+      source: { id: "espn-cric-info", name: "ESPN Cric Info" },
+      author: null,
+      title:
+        "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      description:
+        "Penalty after the batsman pleaded guilty to not lorem reporting corrupt approaches | ESPNcricinfo.com Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, dolore. Sequi, distinctio iste voluptates sit in eaque porro. Nisi consequatur molestiae eos corporis.",
+      url: "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      urlToImage:
+        "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      publishedAt: "2020-04-27T11:41:47Z",
+      content:
+        "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]",
+    },
+    {
+      source: { id: "espn-cric-info", name: "ESPN Cric Info" },
+      author: null,
+      title:
+        "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      description:
+        "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, dolore. Sequi, distinctio iste voluptates sit in eaque porro. Nisi consequatur molestiae eos corporis.",
+      url: "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      urlToImage:
+        "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      publishedAt: "2020-03-30T15:26:05Z",
+      content:
+        "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]",
+    },
+    {
+      source: { id: null, name: "Hindustan Times" },
+      author: "HT News Desk",
+      title:
+        "Investor Rakesh Jhunjhunwala cremated at Mumbai's Banganga crematorium - Hindustan Times",
+      description:
+        "Rakesh Jhunjhunwala death uprbes, which listed him as the 36th weale world.",
+      url: "https://www.hindustantimes.com/india-news/ace-investor-rakesh-jhunjhunwala-passes-away-tributes-pm-modi-live-updates-101660455375108.html",
+      urlToImage:
+        "https://images.hindustantimes.com/img/2022/08/14/1600x900/Rakesh_Jhunjhunwala_Akasa_Air_1634024913405_1660455575804_1660455575804.jpg",
+      publishedAt: "2022-08-14T18:22:11Z",
+      content:
+        "We are deeply saddened by the untimely demise of Mr. Rakesh Jhunjhunwala this morning. Our thoughts and prayers are with Mr. Jhunjhunwalas family and friends. May his soul rest in peace.\r\nWe at Akasa… [+433 chars]",
+    },
+    {
+      source: { id: null, name: "The Indian Express" },
+      author: "Sports Desk",
+      title:
+        "Premier League 2022, Chelsea vs Tottenham Highlights: Harry Kane provides late equalizer as Chelsea & Tottenham share points - The Indian Express",
+      description:
+        "Premier League 2022, Chelsea vs Tottenham (CHE vs TOT) Highlights: Chelsea manager Thomas Tuchel and his Spurs counterpart Antonio Conte, a former Chelsea boss, were both shown red cards after the final whistle.",
+      url: "https://indianexpress.com/article/sports/football/chelsea-vs-tottenham-premier-league-2022-live-score-streaming-8090170/",
+      urlToImage: "https://images.indianexpress.com/2022/08/CHE-TOT-1.jpg",
+      publishedAt: "2022-08-14T17:48:43Z",
+      content:
+        "Premier League 2022, Chelsea vs Tottenham (CHE vs TOT) Highlights: Here are the two squads:\r\n Premier League, Chelsea vs Tottenham Live Cricket Score Streaming Online Today: Chelsea face Tottenham at… [+423 chars]",
+    },
+    {
+      source: { id: null, name: "Hindustan Times" },
+      author: "HT Entertainment Desk",
+      title:
+        "National flag flies at Alia Bhatt, Salman Khan, Kartik Aaryan's homes - Hindustan Times",
+      description:
+        "From Salman Khan's Galaxy Apartment to Shah Rukh Khan's Mannat, here's how celebrity homes are all decked up for the 75th Independence Day celebrations. | Bollywood",
+      url: "https://www.hindustantimes.com/entertainment/bollywood/national-flag-flies-at-alia-bhatt-salman-khan-kartik-aaryan-s-homes-head-of-75th-independence-day-101660496234293.html",
+      urlToImage:
+        "https://images.hindustantimes.com/img/2022/08/14/1600x900/srk_1660497100000_1660497100305_1660497100305.jpg",
+      publishedAt: "2022-08-14T17:18:00Z",
+      content:
+        "Bollywood celebrities are all set to celebrate Indias 75th Independence day with pride. After PM Narendra Modi launched the Har Ghar Tiranga campaign, actors hoisted the tricolour at their respective… [+1881 chars]",
+    },
+    {
+      source: { id: null, name: "DNA India" },
+      author: "DNA Web Team",
+      title:
+        "iPhone 14 launch date leaked? Everything we know about Apple's upcoming flagship phones - DNA India",
+      description:
+        "The US-based tech giant Apple is expected to announce four new iPhones next month- iPhone 14, iPhone 14 Max, iPhone 14 Pro, iPhone Pro Max.",
+      url: "https://www.dnaindia.com/technology/report-iphone-14-launch-date-leaked-everything-we-know-about-apple-s-upcoming-flagship-phones-2976616",
+      urlToImage:
+        "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/08/14/2530218-apple-iphone-14-pro-renders-created-by-ian-zelbo-for-jon-prosser.jpg",
+      publishedAt: "2022-08-14T16:37:17Z",
+      content:
+        "Reported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Aug 14, 2022, 10:07 PM ISTThe Apple iPhone 14 will most certainly be released in September, but Apple has not announced the preci… [+2259 chars]",
+    },
+  ];
