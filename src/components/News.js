@@ -63,7 +63,6 @@ const News = (props) => {
       >
         NewsMonkey - Top {capitalizeFirstLetter(props.category)} Headlines
       </h1>
-      {loading && <Spinner />}
       <InfiniteScroll
         dataLength={articles.length}
         next={fetchMoreData}
